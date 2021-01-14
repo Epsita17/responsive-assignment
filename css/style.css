@@ -1,0 +1,37 @@
+
+.penguin-card{
+    border: 0;
+    border-radius: 1em;
+}
+.penguin-card-footer{
+    background-color: white;
+    border: 0;
+    
+}
+.web-info{
+background-color:#fffbf0 ;
+}
+.subscribe-item{
+    background-color:#fffbf0;
+    border-radius: 1em;
+} 
+.women-jacket{
+    background-color:#f1f1f1;
+}    
+ 
+ 
+h1{
+    font-size: 70px;
+    color:#fabe4c;
+}
+h3{
+    font-size:70px;
+    color:#363958;
+}
+h2{
+    color:#363958 ;
+    font-size:50px;
+}
+
+
+
